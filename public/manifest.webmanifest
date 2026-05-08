@@ -1,0 +1,14 @@
+{
+  "name": "Sun Rise Model Public School",
+  "short_name": "Sun Rise School",
+  "icons": [
+    {
+      "src": "/assets/logo.png",
+      "sizes": "418x372",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#0f3f37",
+  "background_color": "#f8f4ea",
+  "display": "standalone"
+}
