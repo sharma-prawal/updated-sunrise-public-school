@@ -1,6 +1,8 @@
 # Sun Rise Model Public School Website
 
-> The redesigned Sun Rise Model Public School website.
+> The website of Sun Rise Model Public School, Kandi Dholran (Kangra, Himachal Pradesh).
+
+**Live:** [sunriseschoolkandi.org](https://sunriseschoolkandi.org/)
 
 <p align="center">
   <img src="docs/screenshots/desktop.jpg" width="38%" alt="Screenshot" />
