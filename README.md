@@ -64,3 +64,7 @@ Reusable media from the previous website is stored in:
 public/assets
 public/assets/gallery
 ```
+
+## License
+
+Code is released under the [MIT License](LICENSE). The school's name, logo, photographs and text belong to Sun Rise Model Public School and are not covered by the code license.
